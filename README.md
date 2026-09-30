@@ -1,4 +1,4 @@
 # project-1
 this is my 1st git repository
 <br>
-author niyamath
+author niyamath(hi)
